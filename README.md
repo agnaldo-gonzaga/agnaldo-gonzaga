@@ -42,6 +42,8 @@ Hoje, foco minha evolução na **Modern Data Stack** (dbt, Cloud Data Warehousin
   
   <br><br>
 
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agnaldo-gonzaga&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="180em" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldo-gonzaga&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="180em" />
