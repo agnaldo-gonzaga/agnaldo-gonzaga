@@ -36,7 +36,7 @@ Hoje direciono minha carreira para a área de **Dados**, unindo experiência pr�
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guina800&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
+  <img src="https://streak-stats.demolab.com?user=agnaldo-gonzaga&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5"/>
 </div>
 
 ---
