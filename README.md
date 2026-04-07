@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/agnaldogonzagads" target="_blank">
+  <a href="https://www.linkedin.com/in/agnaldo-gonzaga-6297ba212/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
