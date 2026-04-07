@@ -4,6 +4,12 @@
 🎓 Cientista de Dados em Formação | 📊 Analista de Dados | ⚙️ Analytics Engineer
 </h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/agnaldogonzagads" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 ### 🚀 Sobre mim
 
 🎓 Graduando em **Ciência de Dados**, com foco em transformar dados operacionais em inteligência estratégica.
@@ -42,11 +48,6 @@ Hoje, foco minha evolução na **Modern Data Stack** (dbt, Cloud Data Warehousin
   
   <br><br>
 
-
-
-
----
-
 ---
 
 ## 📈 Gráfico de Atividade Diária
@@ -57,8 +58,4 @@ Hoje, foco minha evolução na **Modern Data Stack** (dbt, Cloud Data Warehousin
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/agnaldogonzagads" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+
