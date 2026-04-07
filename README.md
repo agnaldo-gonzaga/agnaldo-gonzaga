@@ -38,13 +38,16 @@ Hoje, foco minha evolução na **Modern Data Stack** (dbt, Cloud Data Warehousin
 ## 📊 Estatísticas do Perfil
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=agnaldo-gonzaga&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnaldo-gonzaga&theme=dracula&hide_border=true" alt="GitHub Streak" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=agnaldo-gonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldo-gonzaga&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agnaldo-gonzaga&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldo-gonzaga&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="180em" />
 </div>
+
+---
 
 ---
 
