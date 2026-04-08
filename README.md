@@ -47,10 +47,6 @@ Hoje, foco minha evolução na **Modern Data Stack** (dbt, Cloud Data Warehousin
   <img src="https://streak-stats.demolab.com?user=agnaldo-gonzaga&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
   
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agnaldo-gonzaga&theme=dracula&hide_border=true" alt="GitHub Streak Agnaldo Gonzaga" />
-</div>
 
 <br>
 
