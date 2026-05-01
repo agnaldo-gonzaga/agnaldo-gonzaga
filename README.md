@@ -25,6 +25,18 @@ Hoje, foco minha evolução na **Modern Data Stack** (dbt, Cloud Data Warehousin
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### 📊 [Análise de Produção de Cana-de-Açúcar (CONAB)](https://github.com/agnaldo-gonzaga/analise-producao-cana-conab)
+Análise exploratória completa utilizando Python e Pandas para identificar tendências de produtividade e ATR nas safras brasileiras.
+- **Tecnologias:** Python, Pandas, Matplotlib, Seaborn.
+- **Destaque:** Limpeza de dados históricos e visualização de disparidades regionais.
+
+### 🛠️ [Data Analytics Journey](https://github.com/agnaldo-gonzaga/Data-Science-Learning)
+Documentação da minha evolução técnica com foco em consultas avançadas de SQL e automação.
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
