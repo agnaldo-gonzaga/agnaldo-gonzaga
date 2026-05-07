@@ -103,14 +103,16 @@ Repositório dedicado à minha evolução prática em análise de dados, SQL, au
 
 # 📈 GitHub Stats
 
+
 <div align="center">
 
- 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnaldo-gonzaga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldo-gonzaga&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+
 
 ---
 
