@@ -1,4 +1,3 @@
-```md
 <h1 align="center">👋 Olá! Eu sou Agnaldo Gonzaga</h1>
 
 <h3 align="center">
@@ -85,7 +84,7 @@ Repositório dedicado à minha evolução prática em análise de dados, SQL, au
   <img width="12"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL"/>
-  <img width="12"/>
+ <img width="12"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
   <img width="12"/>
@@ -136,4 +135,4 @@ Repositório dedicado à minha evolução prática em análise de dados, SQL, au
 https://www.linkedin.com/in/agnaldo-gonzaga/
 
 📧 Em busca de oportunidades para crescer na área de Dados, Analytics e Engenharia de Dados.
-```
+
