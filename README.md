@@ -105,9 +105,10 @@ Repositório dedicado à minha evolução prática em análise de dados, SQL, au
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnaldo-gonzaga&show_icons=true&theme=dracula&hide_border=true"/>
+ 
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agnaldo-gonzaga&show_icons=true&theme=dracula"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnaldo-gonzaga&layout=compact&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agnaldo-gonzaga&layout=compact&theme=dracula"/>
 
 </div>
 
